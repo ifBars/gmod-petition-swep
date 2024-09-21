@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "PenguinRP Petition Swep"
+	"author_name" "MrPPenguin"
+	"info" "{"title":"PenguinRP Petition Swep","type":"weapon","tags":["comic","roleplay","movie"],"ignore":[]}"
+}

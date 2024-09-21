@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "particle/warp1_warp"
+	"$alphatest" 1
+	"$translucent" 1
+}
