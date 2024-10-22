@@ -6,7 +6,7 @@ SWEP.Author = "MrPPenguin"
 SWEP.Contact = ""
 SWEP.Purpose = ""
 SWEP.Instructions = "Left click to play sound\nRight click to request player to sing your petition"
-SWEP.Category = "PenguinRP"
+SWEP.Category = "DarkRP"
  
 SWEP.Slot = 1
 SWEP.SlotPos = 0
